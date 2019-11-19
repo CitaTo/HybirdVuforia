@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="BookSheel_2" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="BookSheel_2s_assembly" assemblyId="eac1080285d14bdc8adfd81260ece159">
+<Part name="BookSheel_2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0195446 0.711903 2.90933" rotation="AD: 1 -3.3881317890172014e-21 2.0746323752546555e-37 180" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.065075 0.711903 2.93165" rotation="AD: 1 -3.5782858493593485e-17 -0.577350269189626 180" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.0685064 0.711903 2.98224" rotation="AD: -1 1.0601347815923342e-16 1.7320508075688765 180" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="-0.0264074 0.711903 3.01051" rotation="AD: -0.7022459092929957 0.7119344652994781 11484921760931188 180" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="0.019123 0.711903 2.98819" rotation="AD: 1 1.0723320560327964e-16 1.7320508075688767 180" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="0.0225544 0.711903 2.93759" rotation="AD: 1 3.5289911515882893e-17 0.5773502691896266 180" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

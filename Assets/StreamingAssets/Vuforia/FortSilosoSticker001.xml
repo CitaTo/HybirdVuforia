@@ -2,5 +2,12 @@
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
     <ImageTarget name="VuforiaObjectScanningPattern" size="0.290000 0.205039" />
+    <ImageTarget name="RightArrow" size="0.200000 0.200000" />
+    <ImageTarget name="MiddleArrow" size="0.200000 0.200000" />
+    <ImageTarget name="LeftArrow" size="0.200000 0.200000" />
+    <ImageTarget name="Letter_E" size="0.200000 0.200000" />
+    <ImageTarget name="Letter_C" size="0.200000 0.200000" />
+    <ImageTarget name="Letter_A" size="0.200000 0.200000" />
+    <ImageTarget name="FortSilocoSticker001" size="0.300000 0.225000" />
   </Tracking>
 </QCARConfig>
